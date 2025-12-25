@@ -97,7 +97,7 @@ Now you can see the-
 * Logs @ `target/logs/test_logs.log`
 * Test coverage CSV Report @ `target/zerocode-junit-granular-report.csv`
 * Test coverage Chart @ `target/zerocode-junit-interactive-fuzzy-search.html`
-* More [reports](https://github.com/authorjapps/zerocode#generated-reports-and-charts)
+* Sample Test [reports](https://github.com/authorjapps/zerocode/issues/694) and dashboards (look for light and dark modes)
 
 ## IDE References:
 
